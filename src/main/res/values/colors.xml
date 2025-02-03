@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="present">#60FA67</color>
+    <color name="absent">#FF4E4E</color>
+    <color name="normal">#BDBBBB</color>
+
+</resources>
